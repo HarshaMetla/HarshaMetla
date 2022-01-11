@@ -36,3 +36,9 @@ jobs:
           echo test, and deploy your project.
           pwd
           echo
+          java -version
+          echo
+          docker --version 
+          echo
+          ls
+          echo
